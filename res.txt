@@ -1,0 +1,84 @@
+Query  : alkylated with radioactive iodoacetate
+Results  : 
+collection\6\507.txt           8.415
+collection\6\554.txt           3.202
+collection\11\1003.txt         3.138
+collection\6\506.txt           2.713
+collection\4\387.txt           2.563
+collection\4\388.txt           2.563
+collection\10\989.txt          2.412
+collection\5\482.txt           2.412
+collection\11\1018.txt         2.258
+collection\2\119.txt           2.258
+
+LETOR
+SERP/Ranking :
+collection\6\507.txt           1.184
+collection\2\119.txt           0.674
+collection\3\247.txt           0.277
+collection\3\261.txt           0.277
+collection\8\793.txt           0.204
+collection\8\745.txt           0.185
+collection\6\523.txt           0.126
+collection\11\1003.txt         0.079
+collection\6\506.txt           -0.060
+collection\1\92.txt            -0.060
+
+-----------------------------------
+
+Query  : psychodrama for disturbed children
+Results  : 
+collection\9\820.txt           6.864
+collection\10\918.txt          3.780
+collection\9\821.txt           3.777
+collection\1\36.txt            3.485
+collection\9\817.txt           3.455
+collection\10\926.txt          3.284
+collection\8\799.txt           3.284
+collection\10\927.txt          3.235
+collection\1\99.txt            3.070
+collection\2\100.txt           3.070
+
+LETOR
+SERP/Ranking :
+collection\9\820.txt           1.302
+collection\9\815.txt           0.915
+collection\1\36.txt            0.836
+collection\11\1027.txt         0.730
+collection\5\493.txt           0.708
+collection\9\853.txt           0.660
+collection\9\821.txt           0.629
+collection\10\925.txt          0.497
+collection\9\892.txt           0.493
+collection\9\802.txt           0.365
+
+-----------------------------------
+
+Query  : lipid metabolism in toxemia and normal pregnancy
+Results  : 
+collection\1\7.txt             9.852
+collection\4\328.txt           6.855
+collection\4\306.txt           5.604
+collection\2\159.txt           5.328
+collection\1\81.txt            5.115
+collection\4\329.txt           4.934
+collection\1\12.txt            3.835
+collection\3\288.txt           3.732
+collection\9\881.txt           3.578
+collection\7\602.txt           3.500
+
+LETOR
+SERP/Ranking :
+collection\2\103.txt           1.853
+collection\4\371.txt           1.600
+collection\1\7.txt             1.593
+collection\7\602.txt           1.430
+collection\1\52.txt            1.430
+collection\4\344.txt           1.325
+collection\1\83.txt            1.192
+collection\10\928.txt          1.131
+collection\8\745.txt           1.040
+collection\11\1010.txt         1.040
+
+-----------------------------------
+
